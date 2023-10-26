@@ -2,9 +2,9 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="hi"
-                 name="Help Instance"
-                 start-page="Default-topic.md">
+<instance-profile id="im"
+                 name="Impact documentation"
+                 start-page="La-solution-Impact.md">
 
     <toc-element topic="La-solution-Impact.md"/>
     <toc-element topic="Notes-de-mise-à-jour.md">
