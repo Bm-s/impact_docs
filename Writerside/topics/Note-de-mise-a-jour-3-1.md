@@ -35,8 +35,6 @@ Dorénavant seules les frais des 45 derniers jours seront présentes à l'arriv�
 Tous les autres frais restent disponibles via le mode de recherche.
 
 
-
-
 ## Correction de diverses lenteurs
 - Correction sur l'affichage des chantiers sur le tableau de bord
 - Correction de lenteur d'affichage de plusieurs listing
