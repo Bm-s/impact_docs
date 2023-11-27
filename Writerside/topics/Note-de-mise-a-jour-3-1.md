@@ -39,9 +39,13 @@ Dorénavant seules les lignes d'heures des 45 derniers jours ou créé/modifié 
 Tous les autres lignes d'heures restent disponibles via le mode de recherche.
 
 
-
 ## Correction de diverses lenteurs
 - Correction sur l'affichage des chantiers sur le tableau de bord
 - Correction de lenteur d'affichage de plusieurs listing
+- Amélioration du chargement des événements du calendrier
+
+
+## Mise en place de FileMaker 20.0
+La solution Impact va passer à la version 20 de FileMaker afin de gagner en stabilité et amélioer la sécurité de l'ensemble de la solution
 
 
