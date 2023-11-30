@@ -14,4 +14,8 @@
         <description>Created after removal of "Note de mise à jour 3.2" from Impact documentation</description>
         <accepts>Note-de-mise-a-jour-3-2.html</accepts>
     </rule>
+    <rule id="658d5925">
+        <description>Created after removal of "Note de mise à jour 4.0" from Impact documentation</description>
+        <accepts>Note-de-mise-à-jour-4-0.html</accepts>
+    </rule>
 </rules>

@@ -8,7 +8,6 @@
 
     <toc-element topic="La-solution-Impact.md"/>
     <toc-element topic="Notes-de-mise-a-jour.md">
-        <toc-element topic="Note-de-mise-à-jour-4-0.md"/>
         <toc-element topic="Note-de-mise-a-jour-3-1.md"/>
     </toc-element>
 </instance-profile>
