@@ -10,4 +10,8 @@
         <description>Created after removal of "Impact Sàrl" from Help Instance</description>
         <accepts>Impact-Sàrl.html</accepts>
     </rule>
+    <rule id="5d070084">
+        <description>Created after removal of "Note de mise à jour 3.2" from Impact documentation</description>
+        <accepts>Note-de-mise-a-jour-3-2.html</accepts>
+    </rule>
 </rules>

@@ -27,18 +27,25 @@ Il est désormais possible de dupliquer un événement directement depuis l'inte
 Il vous suffit de cliquer sur le bouton jaune ![Nouveau menu](eMIAkyh.png){width="26"}{border-effect=line} en bas à droite.
 
 ## Listing des factures
-Dorénavant seules les factures des 45 derniers jours seront présentes à l'arrivée sur le listing.
+Dorénavant seules les factures des 45 derniers jours ou créé/modifié dans les 45 derniers jours seront présentes à l'arrivée sur le listing.
 Toutes les autres factures restent disponibles via le mode de recherche.
 
 ## Listing des frais
-Dorénavant seules les frais des 45 derniers jours seront présentes à l'arrivée sur le listing.
+Dorénavant seules les frais des 45 derniers jours ou créé/modifié dans les 45 derniers jours seront présentes à l'arrivée sur le listing.
 Tous les autres frais restent disponibles via le mode de recherche.
 
-
+## Listing des heures
+Dorénavant seules les lignes d'heures des 45 derniers jours ou créé/modifié dans les 45 derniers jours seront présentes à l'arrivée sur le listing.
+Tous les autres lignes d'heures restent disponibles via le mode de recherche.
 
 
 ## Correction de diverses lenteurs
 - Correction sur l'affichage des chantiers sur le tableau de bord
 - Correction de lenteur d'affichage de plusieurs listing
+- Amélioration du chargement des événements du calendrier
+
+
+## Mise en place de FileMaker 20.0
+La solution Impact va passer à la version 20 de FileMaker afin de gagner en stabilité et amélioer la sécurité de l'ensemble de la solution
 
 
