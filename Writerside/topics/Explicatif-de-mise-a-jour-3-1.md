@@ -1,4 +1,4 @@
-# Note de mise à jour 3.1
+# Explicatif de mise à jour v3.1
 
 ## Sécurité
 
@@ -13,7 +13,7 @@ Désormais les mots de passe doivent avoir les caractéristiques suivantes :
 ## Menu et report de bug
 Afin de faciliter et d'améliorer la solution, un nouveau menu a été ajouté avec la possibilité de reporter un bug
 
-![Nouveau menu](3.1_new_menu.png){border-effect=line}
+![Nouveau menu](3-1_01.png){border-effect=line}
 
 
 En cliquant sur ce bouton, un mail prérempli s'ouvrira et il vous suffira de décrire votre bug et de l'envoyer. 
@@ -23,7 +23,7 @@ Si le bug est avéré, notre équipe de support se chargera de prendre contact a
 ## Dupliquer un événement depuis l'interface SmartPhone
 
 Il est désormais possible de dupliquer un événement directement depuis l'interface mobile d'Impact.
-Il vous suffit de cliquer sur le bouton jaune ![Nouveau menu](eMIAkyh.png){width="26"}{border-effect=line} en bas à droite.
+Il vous suffit de cliquer sur le bouton jaune ![Nouveau menu](3-1_02.png){width="26"}{border-effect=line} en bas à droite.
 
 ## Listing des factures
 Dorénavant seules les factures des 45 derniers jours ou créés/modifiées dans les 45 derniers jours seront visibles à l'ouverture du listing.
