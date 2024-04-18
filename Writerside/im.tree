@@ -4,10 +4,10 @@
 
 <instance-profile id="im"
                  name="Impact documentation"
-                 start-page="La-solution-Impact.md">
+                 start-page="Notes-de-mise-a-jour.md">
 
-    <toc-element topic="La-solution-Impact.md"/>
     <toc-element topic="Notes-de-mise-a-jour.md">
         <toc-element topic="Explicatif-de-mise-a-jour-3-1.md"/>
+        <toc-element topic="Version-3-2.md"/>
     </toc-element>
 </instance-profile>
