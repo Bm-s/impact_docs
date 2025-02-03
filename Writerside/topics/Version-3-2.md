@@ -19,6 +19,7 @@ Désormais lorsque vous effecuter les actions suivantes, le système vous propos
 - Transformation de Métré -> Facture
 - Transformation de Métré -> Devis
 - Duplication Devis, Métré ou Facture
+- 
 - Ajouter un objet du catalogue
 - Duplication d'un article
 
