@@ -2,6 +2,7 @@
 
 ## Chantier - Statut archivé
 Afin de renforcer la sécurité, nous avons ajouté un verrou sur les chantiers avec un statut "archivé" (Voir paramètres du logiciel / État des chantiers)
+
 ![state_old.png](state_old.png)
 
 Il ne sera dès lors plus possible de modifier un chantier verrouillé et seul un compte de type administrateur du logiciel pourra ouvrir à nouveau un chantier.
@@ -13,6 +14,7 @@ auquel vous voulez arriver et le système se chargera de calculer le rabais néc
 Si le montant auquel vous désirez arriver n'est mathématiquement pas atteignable, une différence d'arrondi sera
 ajoutée dans le but d'atteindre le montant désiré.
 Pour ce faire, cliquez sur le bouton entouré en rouge :
+
 ![set_ttc.png](set_ttc.png)
 
 
@@ -20,6 +22,7 @@ Pour ce faire, cliquez sur le bouton entouré en rouge :
 Il est désormais possible d'inscrire un rabais par défaut pour un client. Celui-ci sera repris automatiquement
 lors de la création d'un chantier et des devis/factures liées. Attention à toujours bien vérifier l'onglet
 "synthèse du prix" afin d'éviter les erreurs.
+
 ![fix_rabais.png](fix_rabais.png)
 
 
@@ -37,6 +40,7 @@ désactivé.
 Le filtre sur les chantiers est désormais stocké durant la navigation afin que la dernière vue que
 vous aviez chargée soit correctement reprise lors du retour sur le listing. Nous avons également modifié le visuel
 pour une meilleure compréhension.
+
 ![filter_chantier.png](filter_chantier.png)
 
 
