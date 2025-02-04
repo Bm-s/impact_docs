@@ -27,6 +27,7 @@ L'objectif est que l'utilisateur se rende compte que certaines quantités sont �
 - Transformation de Métré -> Facture
 - Transformation de Métré -> Devis
 - Duplication Devis, Métré ou Facture
+- 
 - Ajouter un objet du catalogue
 - Duplication d'un article
 
